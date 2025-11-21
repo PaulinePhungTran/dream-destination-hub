@@ -2,7 +2,7 @@
 
 Submitted by: **Phung Tran**
 
-This web app: **insert description**
+This web app: **The purpose of this website is to let the user post places they have travel to, places they recommend or not recommend visit, and their dream vacation. User can also search, upvote, comment edit, or delete the post.**
 
 Time spent: **15** hours spent in total
 
